@@ -3,8 +3,8 @@
 
 ## Student Details
 
-* Name: Aishwarya C
-* Register Number: RA2311003050082
+* Name: Makizhtha P
+* Register Number: RA2311003050223
 * Department: B.Tech CSE
 * Institution: SRM Institute of Science and Technology, Tiruchirapalli
 
